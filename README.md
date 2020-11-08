@@ -14,11 +14,11 @@
 ReactJS Implementation for Spotify Like Web App
 
 ## Screenshots
-![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/screenshots/Screenshot%202020-07-15%20at%202.25.00%20AM.png)
+![Example screenshot](https://raw.githubusercontent.com/ysehgal147/spotify-clone/main/Screenshot%202020-11-09%20at%202.53.40%20AM.png)
 
-![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/screenshots/Screenshot%202020-07-15%20at%201.52.23%20AM.png)
+![Example screenshot](https://raw.githubusercontent.com/ysehgal147/spotify-clone/main/Screenshot%202020-11-09%20at%202.53.47%20AM.png)
 
-![Example screenshot](https://raw.githubusercontent.com/ysehgal147/flask_blog/master/screenshots/Screenshot%202020-07-15%20at%202.00.16%20AM.png)
+![Example screenshot](https://raw.githubusercontent.com/ysehgal147/spotify-clone/main/Screenshot%202020-11-09%20at%202.54.06%20AM.png)
 
 ## Technologies
 * ReactJS
