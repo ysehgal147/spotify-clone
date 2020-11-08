@@ -26,7 +26,8 @@ ReactJS Implementation for Spotify Like Web App
 * Spotify API
 * Material UI
 
-## SetupDownload or Clone the Code Files, and Run using 'yarn start'
+## Setup
+Download or Clone the Code Files, and Run using 'yarn start'
 
 ## Features
 List of features ready and TODOs for future development
